@@ -1,10 +1,9 @@
+setwd("~~")
 #packages
 library(rvest)
-setwd("C:\\Users\\TIFRATINE\\Desktop\\CAN 2019")
-
 library(tidyverse)
 
-#Scrapping
+#Scrap squads tables from wikipedia
 
 
 countries<-c("Egypt","DR Congo", "Uganda", "Zimbabwe",
