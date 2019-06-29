@@ -1,9 +1,9 @@
 setwd("~~")
-#packages
+#
 library(rvest)
 library(tidyverse)
 
-#Scrap squads tables from wikipedia
+# wikipedia tables
 
 
 countries<-c("Egypt","DR Congo", "Uganda", "Zimbabwe",
